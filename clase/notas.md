@@ -2,11 +2,11 @@
 
 #  Registro de Trabajo en Clase - Taller 6
 
-## 📆 Fecha de la sesión
+## Fecha de la sesión
 31/10/2025
 
 
-## 🧠 Actividades realizadas en clase
+## Actividades realizadas en clase
 
 Se trabajó sobre el **caso base GobData** aplicando el **Checklist de Cumplimiento Normativo**. A partir del material del informe técnico del taller, se registró lo siguiente:
 
