@@ -1,12 +1,10 @@
 
 
-# 🗒️ Registro de Trabajo en Clase - Taller 6
+#  Registro de Trabajo en Clase - Taller 6
 
 ## 📆 Fecha de la sesión
 31/10/2025
 
-## 👥 Integrantes presentes
-- (completar)
 
 ## 🧠 Actividades realizadas en clase
 
@@ -31,7 +29,7 @@ Se utilizó una plantilla de checklist con controles clave de privacidad y segur
   - **Retención y Eliminación:** No hay política definida de eliminación de datos personales. → Recomendación: política formal de retención y eliminación (Ley 1581, ISO 27001 A.18.1.3).
   - **Auditoría y Responsabilidad:** No se realizan auditorías anuales documentadas. → Recomendación: programar auditorías internas/externas al menos 1 vez al año.
 
-## 🧩 Boceto inicial del modelo
+##  Boceto inicial del modelo
 > Trabajo de clase centrado en **plantilla de checklist** y **matriz de hallazgos/recomendaciones** (no se generó diagrama visual en esta sesión).
 
 ## 🔁 Tareas definidas para complementar el taller
